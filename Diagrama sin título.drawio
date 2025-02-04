@@ -48,7 +48,7 @@
           <mxGeometry x="180" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yPDKOFDvKk30kmoni63R-14" value="&lt;div&gt;Temperatura&lt;/div&gt;&lt;div&gt;calidad del agua&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
